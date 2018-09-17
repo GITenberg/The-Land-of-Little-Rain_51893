@@ -1,5 +1,8 @@
 _repo: The-Land-of-Little-Rain_51893
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51893-h/images/cover.jpg
 creator:
   author:
     agent_name: Austin, Mary Hunter
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/201
     wikipedia: http://en.wikipedia.org/wiki/Mary_Hunter_Austin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51893#The-Land-of-Little-Rain
 gutenberg_issued: '2016-04-30'
 gutenberg_type: Text
 identifiers:
